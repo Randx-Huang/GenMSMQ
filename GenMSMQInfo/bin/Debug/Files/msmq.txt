@@ -1,0 +1,2 @@
+﻿private$\ReceiveMessage
+private$\sendMessage
